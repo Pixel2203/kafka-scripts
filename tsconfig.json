@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es6",                        /* Version von ECMAScript, die TypeScript generieren soll */
+    "module": "commonjs",                   /* Das Modulsystem, das Ihre Anwendung verwendet (z. B. "commonjs", "esnext") */
+    "outDir": "./dist",                     /* Das Verzeichnis, in das TypeScript-Dateien kompiliert werden sollen */
+    "strict": true,                         /* Strenge Typüberprüfung aktivieren */
+    "esModuleInterop": true,                /* Ermöglicht das Importieren von CommonJS-Modulen mit `import` */
+    "skipLibCheck": true,                   /* Überspringt die Überprüfung von Deklarationsdateien in Ihren Abhängigkeiten */
+    "forceConsistentCasingInFileNames": true /* Stellt sicher, dass die Groß-/Kleinschreibung in Dateinamen einheitlich ist */
+  },
+  "include": [
+    "src/**/*.ts"                          /* Das Verzeichnis, das Ihre TypeScript-Dateien enthält */
+  ],
+  "exclude": [
+    "node_modules"                         /* Verzeichnisse, die von der Kompilierung ausgeschlossen werden sollen */
+  ]
+}
