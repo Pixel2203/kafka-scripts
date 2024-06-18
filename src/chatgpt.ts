@@ -14,8 +14,8 @@ const listConsumerGroupTopics = async (groups) => {
     await admin.connect();
     try {
         const alleTopicsDieGelesenWerdenInKafka = new Set();
-        groups = await kafka.admin().listGroups();
-        groups = groups.map((group: GroupOverview) => { group.groupId})
+        //groups = await kafka.admin().listGroups();
+        //roups = groups.map((group: GroupOverview) => { group.groupId})
         for (const group of groups) {
             console.log(`\nConsumer Group: ${group}`);
             // Hole die Beschreibungen der Consumer-Gruppe

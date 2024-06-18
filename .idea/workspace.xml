@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b175a98-fd95-44b5-9427-d74d294640b0" name="Changes" comment="" />
+    <list default="true" id="4b175a98-fd95-44b5-9427-d74d294640b0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chatgpt.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/chatgpt.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +22,9 @@
         <option value="TypeScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -38,6 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
     "javascript.nodejs.core.library.configured.version": "20.14.0",
     "javascript.nodejs.core.library.typings.version": "20.14.5",
     "kotlin-language-version-configured": "true",
@@ -78,7 +85,7 @@
       <workItem from="1711523173370" duration="1769000" />
       <workItem from="1712044057540" duration="521000" />
       <workItem from="1712049890576" duration="754000" />
-      <workItem from="1718697144548" duration="7092000" />
+      <workItem from="1718697144548" duration="7506000" />
     </task>
     <servers />
   </component>
